@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ATON LLC<br>🌱 I’m currently learning node.js, especially nest.js and imporoving my react.js and typescript.<br>⚡ Fun fact, I built first web site in 11 y.o I am well expierenced in javascript and vue.js.
+🔭 I’m currently working on ATON LLC<br>🌱 I’m currently learning node.js, especially nest.js and imporoving my react.js and typescript.<br>⚡ Fun fact, I built first web site at 11 y.o
 
 
 ## 🌐 Socials:
